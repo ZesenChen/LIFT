@@ -1,0 +1,108 @@
+{"song":"平凡之路";"predict scene":"旅行;散步;夜晚;学习;清晨;";"true labels":"旅行;散步;夜晚;下午茶;学习;"}
+{"song":"剑心";"predict scene":"旅行;散步;夜晚;清晨;";"true labels":"旅行;散步;夜晚;下午茶;清晨;"}
+{"song":"刚刚好";"predict scene":"散步;学习;午休;";"true labels":"旅行;散步;运动;学习;午休;"}
+{"song":"不再见";"predict scene":"旅行;散步;减压;学习;";"true labels":"旅行;散步;减压;夜晚;学习;"}
+{"song":"隔海";"predict scene":"散步;夜晚;下午茶;学习;";"true labels":"旅行;夜晚;下午茶;学习;清晨;"}
+{"song":"重来";"predict scene":"散步;减压;";"true labels":"散步;减压;"}
+{"song":"时代之梦";"predict scene":"散步;减压;下午茶;学习;";"true labels":"散步;减压;下午茶;学习;睡前;"}
+{"song":"愿得一人心";"predict scene":"散步;睡前;";"true labels":"﻿聚会;散步;减压;下午茶;睡前;"}
+{"song":"终于等到你 (Live)";"predict scene":"旅行;散步;夜晚;下午茶;睡前;";"true labels":"散步;"}
+{"song":"说谎";"predict scene":"散步;夜晚;清晨;";"true labels":"旅行;散步;夜晚;下午茶;清晨;"}
+{"song":"恋人心";"predict scene":"散步;学习;清晨;";"true labels":"旅行;散步;夜晚;下午茶;学习;"}
+{"song":"南山南";"predict scene":"运动;开车;";"true labels":"散步;减压;运动;开车;学习;"}
+{"song":"帝都";"predict scene":"散步;清晨;午休;";"true labels":"散步;夜晚;下午茶;清晨;午休;"}
+{"song":"她说";"predict scene":"运动;开车;酒吧;";"true labels":"运动;开车;夜晚;清晨;酒吧;"}
+{"song":"Always Online";"predict scene":"旅行;减压;学习;午休;";"true labels":"旅行;减压;夜晚;学习;午休;"}
+{"song":"惊鸿一面";"predict scene":"旅行;散步;减压;夜晚;下午茶;学习;睡前;";"true labels":"散步;减压;下午茶;学习;睡前;"}
+{"song":"我怀念的";"predict scene":"散步;减压;公交;约会;";"true labels":"散步;减压;公交;睡前;约会;"}
+{"song":"罗宾";"predict scene":"";"true labels":"运动;开车;夜晚;学习;睡前;"}
+{"song":"阿飞的小蝴蝶 (Live)";"predict scene":"旅行;散步;减压;学习;睡前;";"true labels":"旅行;散步;夜晚;学习;睡前;"}
+{"song":"一个人";"predict scene":"运动;夜店;";"true labels":"夜店;"}
+{"song":"空城";"predict scene":"旅行;散步;夜晚;睡前;约会;";"true labels":"旅行;散步;夜晚;下午茶;睡前;"}
+{"song":"我的好兄弟";"predict scene":"减压;运动;开车;学习;酒吧;";"true labels":"运动;开车;夜晚;学习;酒吧;"}
+{"song":"素颜";"predict scene":"减压;夜晚;下午茶;睡前;";"true labels":"减压;开车;睡前;"}
+{"song":"GOOD BOY";"predict scene":"旅行;散步;减压;夜晚;学习;清晨;";"true labels":"旅行;散步;夜晚;学习;清晨;"}
+{"song":"过山车";"predict scene":"散步;";"true labels":"散步;夜晚;下午茶;睡前;工作;"}
+{"song":"没有错的人";"predict scene":"散步;夜晚;下午茶;学习;清晨;";"true labels":"散步;夜晚;下午茶;学习;清晨;"}
+{"song":"怎么说我不爱你";"predict scene":"旅行;散步;运动;酒吧;约会;";"true labels":"旅行;散步;夜晚;下午茶;约会;"}
+{"song":"小情歌";"predict scene":"清晨;";"true labels":"旅行;清晨;"}
+{"song":"没有什么不同";"predict scene":"旅行;散步;夜晚;下午茶;睡前;工作;";"true labels":"旅行;散步;下午茶;睡前;工作;"}
+{"song":"你瞒我瞒";"predict scene":"旅行;散步;夜晚;学习;清晨;";"true labels":"旅行;散步;夜晚;学习;清晨;"}
+{"song":"虚惊一场";"predict scene":"散步;夜晚;睡前;";"true labels":"散步;夜晚;下午茶;睡前;清晨;"}
+{"song":"只想一生跟你走";"predict scene":"﻿聚会;减压;夜晚;睡前;约会;";"true labels":"﻿聚会;减压;夜晚;睡前;约会;"}
+{"song":"阴天快乐";"predict scene":"﻿聚会;减压;运动;开车;";"true labels":"﻿聚会;减压;运动;开车;夜店;"}
+{"song":"金玉良缘";"predict scene":"散步;夜晚;下午茶;学习;清晨;";"true labels":"散步;夜晚;下午茶;学习;清晨;"}
+{"song":"黄昏";"predict scene":"散步;减压;下午茶;学习;睡前;";"true labels":"散步;减压;下午茶;学习;睡前;"}
+{"song":"好久不见";"predict scene":"公交;";"true labels":"公交;"}
+{"song":"Lovey-Dovey (Japanese Version)";"predict scene":"运动;开车;";"true labels":"运动;开车;工作;酒吧;夜店;"}
+{"song":"趁早 (2005版)";"predict scene":"﻿聚会;减压;工作;";"true labels":"﻿聚会;减压;下午茶;睡前;工作;"}
+{"song":"没有如果";"predict scene":"散步;夜晚;";"true labels":"散步;夜晚;下午茶;睡前;地铁;"}
+{"song":"幸运符号";"predict scene":"﻿聚会;减压;运动;";"true labels":"﻿聚会;旅行;减压;睡前;"}
+{"song":"城府";"predict scene":"减压;夜晚;约会;";"true labels":"旅行;减压;运动;夜晚;约会;"}
+{"song":"My Sunshine";"predict scene":"散步;减压;夜晚;学习;睡前;";"true labels":"散步;减压;学习;睡前;约会;"}
+{"song":"假如";"predict scene":"散步;减压;睡前;";"true labels":"减压;开车;睡前;"}
+{"song":"隐身守候";"predict scene":"旅行;散步;开车;学习;睡前;";"true labels":"散步;开车;夜晚;学习;睡前;"}
+{"song":"迷人的危险 紫色迷情";"predict scene":"散步;夜晚;下午茶;睡前;工作;";"true labels":"散步;夜晚;学习;清晨;工作;"}
+{"song":"最长的电影";"predict scene":"旅行;夜晚;";"true labels":"旅行;夜晚;下午茶;学习;清晨;"}
+{"song":"相爱分开都是罪";"predict scene":"减压;";"true labels":"旅行;减压;下午茶;睡前;"}
+{"song":"穿越火线";"predict scene":"旅行;夜晚;下午茶;学习;睡前;工作;";"true labels":"旅行;夜晚;学习;清晨;工作;"}
+{"song":"悟空";"predict scene":"旅行;散步;夜晚;下午茶;清晨;";"true labels":"旅行;散步;夜晚;下午茶;清晨;"}
+{"song":"冷雨夜";"predict scene":"旅行;散步;夜晚;下午茶;";"true labels":"旅行;散步;夜晚;下午茶;睡前;"}
+{"song":"旧伤疤";"predict scene":"﻿聚会;散步;减压;公交;睡前;";"true labels":"﻿聚会;散步;减压;公交;睡前;"}
+{"song":"他不爱我";"predict scene":"﻿聚会;开车;夜晚;下午茶;学习;工作;";"true labels":"﻿聚会;减压;学习;睡前;工作;"}
+{"song":"叹服";"predict scene":"散步;减压;学习;工作;";"true labels":"旅行;散步;夜晚;学习;工作;"}
+{"song":"突然的自我";"predict scene":"旅行;散步;夜晚;下午茶;睡前;";"true labels":"旅行;散步;夜晚;睡前;清晨;"}
+{"song":"Who You? (Korean Ver.)";"predict scene":"散步;减压;下午茶;学习;";"true labels":"散步;减压;下午茶;学习;睡前;"}
+{"song":"独角戏 (Live)";"predict scene":"旅行;散步;夜晚;睡前;清晨;";"true labels":"旅行;散步;夜晚;睡前;清晨;"}
+{"song":"不再犹豫";"predict scene":"﻿聚会;减压;公交;开车;夜晚;学习;睡前;";"true labels":"﻿聚会;减压;夜晚;学习;睡前;"}
+{"song":"思念是一种病 (Live)";"predict scene":"旅行;散步;夜晚;下午茶;学习;";"true labels":"旅行;散步;夜晚;学习;清晨;"}
+{"song":"相依为命";"predict scene":"减压;约会;夜店;";"true labels":"旅行;减压;睡前;约会;夜店;"}
+{"song":"那个男人";"predict scene":"散步;减压;";"true labels":"散步;减压;"}
+{"song":"听妈妈的话";"predict scene":"学习;";"true labels":"旅行;运动;夜晚;学习;清晨;"}
+{"song":"凌乱的华丽";"predict scene":"散步;夜晚;下午茶;睡前;";"true labels":"旅行;散步;夜晚;下午茶;睡前;"}
+{"song":"怎么办我爱你";"predict scene":"开车;下午茶;";"true labels":"下午茶;"}
+{"song":"奇妙能力歌";"predict scene":"散步;下午茶;清晨;";"true labels":"旅行;散步;夜晚;下午茶;清晨;"}
+{"song":"让我欢喜让我忧 (前段|Live)";"predict scene":"旅行;散步;减压;清晨;";"true labels":"旅行;散步;减压;夜晚;睡前;"}
+{"song":"爱笑的眼睛";"predict scene":"散步;开车;";"true labels":"旅行;散步;运动;开车;夜晚;"}
+{"song":"月光";"predict scene":"散步;减压;夜晚;下午茶;学习;清晨;";"true labels":"散步;夜晚;下午茶;学习;清晨;"}
+{"song":"错位节拍";"predict scene":"散步;运动;开车;酒吧;";"true labels":"散步;减压;运动;开车;酒吧;"}
+{"song":"大圈圈";"predict scene":"旅行;散步;减压;夜晚;学习;睡前;清晨;";"true labels":"散步;夜晚;下午茶;学习;清晨;"}
+{"song":"难以启齿的柔弱";"predict scene":"旅行;散步;开车;夜晚;睡前;";"true labels":"旅行;散步;开车;夜晚;睡前;"}
+{"song":"燕归巢";"predict scene":"旅行;散步;夜晚;下午茶;睡前;";"true labels":"旅行;散步;夜晚;下午茶;睡前;"}
+{"song":"明年今日";"predict scene":"散步;夜晚;睡前;";"true labels":"开车;"}
+{"song":"当我想你的时候";"predict scene":"旅行;散步;夜晚;下午茶;午休;";"true labels":"旅行;散步;夜晚;下午茶;午休;"}
+{"song":"Tonight";"predict scene":"旅行;散步;夜晚;下午茶;睡前;";"true labels":"旅行;散步;夜晚;下午茶;清晨;"}
+{"song":"别怕我伤心";"predict scene":"旅行;散步;夜晚;下午茶;学习;清晨;";"true labels":"旅行;散步;夜晚;下午茶;清晨;"}
+{"song":"醉清风";"predict scene":"旅行;散步;减压;睡前;";"true labels":"散步;减压;开车;下午茶;睡前;"}
+{"song":"遇见你的时候所有星星都落到我头上";"predict scene":"旅行;散步;减压;";"true labels":"旅行;散步;减压;夜晚;下午茶;"}
+{"song":"大约在冬季";"predict scene":"散步;开车;学习;";"true labels":"旅行;散步;开车;夜晚;学习;"}
+{"song":"吻安 (合唱版)";"predict scene":"旅行;散步;夜晚;睡前;";"true labels":"旅行;散步;减压;夜晚;睡前;"}
+{"song":"爱一点";"predict scene":"旅行;散步;夜晚;睡前;";"true labels":"旅行;散步;夜晚;下午茶;睡前;"}
+{"song":"御龙归字谣";"predict scene":"﻿聚会;减压;下午茶;";"true labels":"﻿聚会;旅行;减压;运动;下午茶;"}
+{"song":"被风吹过的夏天";"predict scene":"旅行;散步;开车;夜晚;下午茶;睡前;清晨;";"true labels":"旅行;散步;开车;夜晚;下午茶;"}
+{"song":"娃娃脸";"predict scene":"旅行;散步;夜晚;下午茶;学习;";"true labels":"旅行;散步;夜晚;下午茶;学习;"}
+{"song":"佛说";"predict scene":"旅行;散步;夜晚;下午茶;学习;睡前;清晨;";"true labels":"散步;夜晚;下午茶;睡前;清晨;"}
+{"song":"勇敢勇敢";"predict scene":"散步;运动;开车;夜晚;学习;";"true labels":"散步;运动;开车;夜晚;学习;"}
+{"song":"伤不起";"predict scene":"散步;减压;公交;约会;";"true labels":"﻿聚会;散步;减压;下午茶;"}
+{"song":"宁夏 (Live)";"predict scene":"旅行;散步;夜晚;下午茶;";"true labels":"夜晚;"}
+{"song":"某个心跳";"predict scene":"工作;";"true labels":"工作;"}
+{"song":"aLIEz";"predict scene":"﻿聚会;旅行;散步;公交;开车;夜晚;下午茶;睡前;家务;";"true labels":"旅行;散步;开车;夜晚;下午茶;"}
+{"song":"你我";"predict scene":"散步;";"true labels":"旅行;散步;夜晚;学习;睡前;"}
+{"song":"一念之间";"predict scene":"﻿聚会;散步;减压;";"true labels":"﻿聚会;散步;减压;下午茶;清晨;"}
+{"song":"当你孤单你会想起谁";"predict scene":"散步;夜晚;睡前;";"true labels":"旅行;散步;夜晚;下午茶;睡前;"}
+{"song":"那个远方";"predict scene":"旅行;散步;减压;开车;夜晚;学习;睡前;工作;";"true labels":"旅行;散步;开车;睡前;工作;"}
+{"song":"太早";"predict scene":"开车;工作;";"true labels":"运动;开车;清晨;工作;酒吧;"}
+{"song":"冥明 (Live)";"predict scene":"散步;下午茶;工作;地铁;";"true labels":"散步;开车;下午茶;工作;地铁;"}
+{"song":"六月的雨";"predict scene":"散步;夜晚;";"true labels":"旅行;散步;夜晚;下午茶;清晨;"}
+{"song":"你爱我像谁";"predict scene":"旅行;散步;夜晚;下午茶;睡前;约会;";"true labels":"散步;夜晚;下午茶;睡前;约会;"}
+{"song":"偶阵雨";"predict scene":"旅行;散步;夜晚;下午茶;学习;睡前;";"true labels":"旅行;散步;夜晚;下午茶;学习;"}
+{"song":"千千阙歌 (Live)";"predict scene":"减压;学习;工作;家务;";"true labels":"减压;学习;清晨;工作;家务;"}
+{"song":"手心里的温柔";"predict scene":"散步;运动;学习;约会;";"true labels":"旅行;散步;运动;夜晚;学习;"}
+{"song":"全世界失眠";"predict scene":"旅行;散步;学习;清晨;";"true labels":"旅行;散步;夜晚;学习;清晨;"}
+{"song":"别再说";"predict scene":"旅行;散步;清晨;午休;";"true labels":"旅行;散步;夜晚;清晨;午休;"}
+{"song":"东方不败";"predict scene":"旅行;散步;夜晚;睡前;工作;";"true labels":"旅行;散步;夜晚;睡前;工作;"}
+{"song":"假如爱有天意 (Live)";"predict scene":"旅行;散步;减压;下午茶;睡前;";"true labels":"旅行;散步;减压;下午茶;睡前;"}
+{"song":"童年";"predict scene":"开车;夜晚;午休;";"true labels":"旅行;散步;开车;夜晚;午休;"}
+{"song":"本来";"predict scene":"散步;夜晚;下午茶;睡前;工作;";"true labels":"散步;夜晚;下午茶;睡前;工作;"}
+{"song":"一起老去";"predict scene":"﻿聚会;睡前;午休;";"true labels":"﻿聚会;散步;睡前;午休;约会;"}
+{"song":"大哥";"predict scene":"旅行;散步;夜晚;睡前;清晨;午休;约会;";"true labels":"旅行;散步;夜晚;清晨;午休;"}

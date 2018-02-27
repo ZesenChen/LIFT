@@ -1,0 +1,93 @@
+{"song":"小苹果";"predict emotion":"﻿怀旧;";"true labels":"﻿怀旧;放松;兴奋;快乐;安静;"}
+{"song":"可以背负更多";"predict emotion":"﻿怀旧;伤感;孤独 ;安静;思念 ;";"true labels":"﻿怀旧;伤感;治愈;孤独 ;思念 ;"}
+{"song":"李白";"predict emotion":"﻿怀旧;伤感;治愈;孤独 ;安静;思念 ;";"true labels":"﻿怀旧;伤感;治愈;安静;思念 ;"}
+{"song":"咱们结婚吧";"predict emotion":"伤感;孤独 ;安静;思念 ;甜蜜;";"true labels":"快乐;安静;思念 ;励志;"}
+{"song":"给你的歌 (Live Piano Session II)";"predict emotion":"﻿怀旧;伤感;孤独 ;安静;思念 ;";"true labels":"﻿怀旧;伤感;孤独 ;安静;思念 ;"}
+{"song":"我的梦 (Live)";"predict emotion":"﻿怀旧;伤感;治愈;孤独 ;安静;思念 ;";"true labels":"伤感;治愈;孤独 ;安静;思念 ;"}
+{"song":"终于等到你 (Live)";"predict emotion":"﻿怀旧;伤感;治愈;孤独 ;安静;思念 ;";"true labels":"﻿怀旧;伤感;治愈;孤独 ;安静;"}
+{"song":"以后的以后";"predict emotion":"治愈;";"true labels":"快乐;"}
+{"song":"多远都要在一起";"predict emotion":"﻿怀旧;伤感;感动;安静;思念 ;励志;";"true labels":"﻿怀旧;伤感;感动;安静;思念 ;"}
+{"song":"一亿个伤心";"predict emotion":"伤感;治愈;孤独 ;安静;思念 ;";"true labels":"伤感;治愈;孤独 ;安静;思念 ;"}
+{"song":"切歌之王";"predict emotion":"伤感;治愈;安静;思念 ;";"true labels":"伤感;治愈;孤独 ;思念 ;"}
+{"song":"终于等到你";"predict emotion":"﻿怀旧;伤感;治愈;孤独 ;思念 ;";"true labels":"﻿怀旧;伤感;治愈;孤独 ;思念 ;"}
+{"song":"Happy Birthday To Me (Live)";"predict emotion":"伤感;治愈;孤独 ;安静;思念 ;";"true labels":"伤感;治愈;孤独 ;安静;思念 ;"}
+{"song":"罗宾";"predict emotion":"﻿怀旧;伤感;治愈;孤独 ;安静;思念 ;";"true labels":"伤感;治愈;孤独 ;安静;思念 ;"}
+{"song":"电音之王";"predict emotion":"伤感;治愈;安静;思念 ;";"true labels":"伤感;治愈;安静;思念 ;励志;"}
+{"song":"曾经的你";"predict emotion":"伤感;治愈;孤独 ;安静;思念 ;";"true labels":"伤感;治愈;孤独 ;安静;思念 ;"}
+{"song":"你不知道的事";"predict emotion":"﻿怀旧;伤感;安静;思念 ;";"true labels":"﻿怀旧;伤感;孤独 ;安静;思念 ;"}
+{"song":"蓝莲花";"predict emotion":"伤感;治愈;孤独 ;安静;思念 ;";"true labels":"伤感;治愈;孤独 ;安静;思念 ;"}
+{"song":"稻香";"predict emotion":"﻿怀旧;伤感;安静;思念 ;";"true labels":"伤感;安静;思念 ;"}
+{"song":"王妃";"predict emotion":"伤感;孤独 ;安静;思念 ;宣泄;";"true labels":"伤感;孤独 ;思念 ;宣泄;"}
+{"song":"未成年";"predict emotion":"﻿怀旧;伤感;治愈;安静;思念 ;";"true labels":"伤感;治愈;安静;思念 ;励志;"}
+{"song":"一百个放心";"predict emotion":"﻿怀旧;伤感;治愈;安静;思念 ;";"true labels":"﻿怀旧;伤感;治愈;安静;思念 ;"}
+{"song":"趁早 (2005版)";"predict emotion":"伤感;孤独 ;安静;思念 ;励志;";"true labels":"伤感;孤独 ;安静;思念 ;励志;"}
+{"song":"Gentleman";"predict emotion":"﻿怀旧;伤感;治愈;安静;思念 ;励志;";"true labels":"治愈;快乐;安静;思念 ;励志;"}
+{"song":"夜曲";"predict emotion":"﻿怀旧;伤感;安静;思念 ;";"true labels":"﻿怀旧;放松;安静;思念 ;"}
+{"song":"说好了不见面";"predict emotion":"伤感;治愈;孤独 ;安静;思念 ;";"true labels":"﻿怀旧;伤感;治愈;思念 ;甜蜜;"}
+{"song":"我的滑板鞋";"predict emotion":"伤感;治愈;安静;";"true labels":"伤感;治愈;孤独 ;安静;思念 ;"}
+{"song":"曹操";"predict emotion":"﻿怀旧;伤感;孤独 ;思念 ;";"true labels":"﻿怀旧;伤感;治愈;孤独 ;思念 ;"}
+{"song":"存在感";"predict emotion":"伤感;治愈;孤独 ;安静;思念 ;";"true labels":"伤感;治愈;孤独 ;安静;思念 ;"}
+{"song":"你还要我怎样";"predict emotion":"﻿怀旧;伤感;治愈;孤独 ;安静;思念 ;";"true labels":"﻿怀旧;伤感;治愈;安静;思念 ;"}
+{"song":"爱的供养";"predict emotion":"伤感;安静;思念 ;";"true labels":"宣泄;"}
+{"song":"因你而在";"predict emotion":"浪漫 ;治愈;思念 ;甜蜜;";"true labels":"治愈;快乐;思念 ;甜蜜;"}
+{"song":"我们的歌";"predict emotion":"﻿怀旧;伤感;孤独 ;安静;思念 ;";"true labels":"﻿怀旧;伤感;孤独 ;安静;"}
+{"song":"偏偏喜欢你";"predict emotion":"﻿怀旧;伤感;治愈;孤独 ;安静;思念 ;";"true labels":"﻿怀旧;治愈;放松;思念 ;励志;"}
+{"song":"多喜欢你";"predict emotion":"伤感;孤独 ;安静;思念 ;甜蜜;宣泄;";"true labels":"伤感;孤独 ;安静;甜蜜;宣泄;"}
+{"song":"陪你度过漫长岁月 (国语)";"predict emotion":"﻿怀旧;伤感;安静;思念 ;";"true labels":"﻿怀旧;伤感;治愈;安静;思念 ;"}
+{"song":"闹啥子嘛闹 (Bouns Track)";"predict emotion":"﻿怀旧;放松;快乐;";"true labels":"﻿怀旧;放松;兴奋;思念 ;"}
+{"song":"最长的电影";"predict emotion":"伤感;治愈;孤独 ;安静;思念 ;";"true labels":"伤感;安静;思念 ;宣泄;"}
+{"song":"彩虹";"predict emotion":"﻿怀旧;清新;伤感;治愈;安静;思念 ;";"true labels":"清新;伤感;治愈;感动;思念 ;"}
+{"song":"归";"predict emotion":"﻿怀旧;伤感;治愈;孤独 ;安静;思念 ;";"true labels":"伤感;治愈;孤独 ;安静;思念 ;"}
+{"song":"手写的从前";"predict emotion":"﻿怀旧;伤感;安静;思念 ;";"true labels":"﻿怀旧;伤感;治愈;安静;思念 ;"}
+{"song":"说一句我不走了";"predict emotion":"﻿怀旧;伤感;孤独 ;安静;思念 ;";"true labels":"﻿怀旧;伤感;孤独 ;安静;思念 ;"}
+{"song":"手心的蔷薇";"predict emotion":"﻿怀旧;伤感;感动;安静;思念 ;";"true labels":"﻿怀旧;伤感;感动;安静;思念 ;"}
+{"song":"不再犹豫";"predict emotion":"﻿怀旧;伤感;孤独 ;安静;思念 ;";"true labels":"﻿怀旧;伤感;治愈;安静;思念 ;"}
+{"song":"剩下的盛夏";"predict emotion":"﻿怀旧;伤感;治愈;孤独 ;安静;思念 ;";"true labels":"﻿怀旧;伤感;治愈;孤独 ;思念 ;"}
+{"song":"죽을 만큼 아파서 (死一样的痛过)";"predict emotion":"﻿怀旧;伤感;感动;安静;思念 ;";"true labels":"﻿怀旧;治愈;放松;感动;安静;"}
+{"song":"心花";"predict emotion":"﻿怀旧;伤感;孤独 ;安静;思念 ;";"true labels":"﻿怀旧;伤感;孤独 ;安静;思念 ;"}
+{"song":"工体爱情故事";"predict emotion":"伤感;治愈;孤独 ;安静;思念 ;";"true labels":"伤感;治愈;孤独 ;安静;励志;"}
+{"song":"记事本";"predict emotion":"﻿怀旧;伤感;治愈;孤独 ;安静;思念 ;";"true labels":"﻿怀旧;伤感;治愈;孤独 ;思念 ;"}
+{"song":"听妈妈的话";"predict emotion":"伤感;治愈;安静;思念 ;";"true labels":"伤感;治愈;安静;思念 ;励志;"}
+{"song":"爱是你我";"predict emotion":"﻿怀旧;伤感;安静;思念 ;";"true labels":"﻿怀旧;清新;伤感;感动;思念 ;"}
+{"song":"冷雨夜 (Live)";"predict emotion":"治愈;孤独 ;快乐;甜蜜;宣泄;";"true labels":"伤感;治愈;励志;甜蜜;宣泄;"}
+{"song":"千古";"predict emotion":"﻿怀旧;伤感;治愈;安静;";"true labels":"﻿怀旧;伤感;治愈;孤独 ;安静;"}
+{"song":"伤爱的理由";"predict emotion":"伤感;治愈;孤独 ;安静;思念 ;";"true labels":"伤感;治愈;孤独 ;安静;思念 ;"}
+{"song":"北京北京";"predict emotion":"伤感;治愈;孤独 ;安静;思念 ;";"true labels":"伤感;治愈;孤独 ;安静;思念 ;"}
+{"song":"爱笑的眼睛";"predict emotion":"放松;兴奋;快乐;宣泄;";"true labels":"﻿怀旧;放松;兴奋;思念 ;宣泄;"}
+{"song":"倩女幽魂";"predict emotion":"清新;治愈;兴奋;快乐;";"true labels":"清新;性感;治愈;兴奋;快乐;"}
+{"song":"第七感";"predict emotion":"治愈;快乐;安静;";"true labels":"﻿怀旧;治愈;放松;兴奋;快乐;"}
+{"song":"浩瀚";"predict emotion":"伤感;安静;思念 ;";"true labels":"快乐;"}
+{"song":"BiuBiuBiu";"predict emotion":"﻿怀旧;伤感;感动;兴奋;安静;";"true labels":"﻿怀旧;感动;兴奋;安静;"}
+{"song":"大梦想家";"predict emotion":"治愈;放松;思念 ;";"true labels":"﻿怀旧;治愈;放松;兴奋;快乐;"}
+{"song":"有没有一首歌会让你想起我 (Live)";"predict emotion":"﻿怀旧;伤感;安静;思念 ;";"true labels":"﻿怀旧;伤感;安静;思念 ;"}
+{"song":"冻结";"predict emotion":"﻿怀旧;伤感;治愈;孤独 ;安静;思念 ;";"true labels":"﻿怀旧;伤感;治愈;孤独 ;思念 ;"}
+{"song":"如果有来生";"predict emotion":"﻿怀旧;伤感;感动;安静;思念 ;甜蜜;";"true labels":"﻿怀旧;伤感;安静;思念 ;甜蜜;"}
+{"song":"萌萌哒";"predict emotion":"伤感;治愈;孤独 ;安静;思念 ;";"true labels":"伤感;治愈;孤独 ;安静;思念 ;"}
+{"song":"High歌";"predict emotion":"﻿怀旧;伤感;孤独 ;思念 ;";"true labels":"思念 ;"}
+{"song":"爱久见人心";"predict emotion":"治愈;放松;兴奋;快乐;";"true labels":"治愈;放松;兴奋;快乐;励志;"}
+{"song":"你懂得";"predict emotion":"﻿怀旧;伤感;安静;思念 ;甜蜜;";"true labels":"伤感;治愈;安静;思念 ;甜蜜;"}
+{"song":"错过的情人";"predict emotion":"﻿怀旧;伤感;治愈;安静;思念 ;";"true labels":"﻿怀旧;清新;快乐;思念 ;"}
+{"song":"Bad Girl";"predict emotion":"伤感;治愈;安静;思念 ;";"true labels":"伤感;治愈;安静;思念 ;"}
+{"song":"当你";"predict emotion":"﻿怀旧;治愈;安静;思念 ;甜蜜;";"true labels":"﻿怀旧;治愈;快乐;思念 ;甜蜜;"}
+{"song":"别再说分手";"predict emotion":"治愈;放松;兴奋;快乐;";"true labels":"治愈;快乐;安静;思念 ;宣泄;"}
+{"song":"如果云知道";"predict emotion":"﻿怀旧;伤感;治愈;安静;思念 ;";"true labels":"﻿怀旧;伤感;治愈;安静;思念 ;"}
+{"song":"好久不见";"predict emotion":"伤感;治愈;安静;";"true labels":"伤感;治愈;孤独 ;安静;励志;"}
+{"song":"爱的海洋";"predict emotion":"﻿怀旧;伤感;治愈;孤独 ;安静;思念 ;";"true labels":"﻿怀旧;伤感;孤独 ;安静;思念 ;"}
+{"song":"你我";"predict emotion":"浪漫 ;伤感;治愈;安静;甜蜜;";"true labels":"浪漫 ;伤感;治愈;安静;甜蜜;"}
+{"song":"去大理";"predict emotion":"治愈;兴奋;";"true labels":"性感;治愈;兴奋;快乐;甜蜜;"}
+{"song":"공허해 (空虚)";"predict emotion":"﻿怀旧;伤感;孤独 ;安静;思念 ;";"true labels":"伤感;思念 ;"}
+{"song":"瞬间";"predict emotion":"﻿怀旧;伤感;安静;思念 ;";"true labels":"伤感;"}
+{"song":"敢为天下先";"predict emotion":"伤感;治愈;孤独 ;安静;思念 ;";"true labels":"伤感;治愈;孤独 ;安静;思念 ;"}
+{"song":"最炫小苹果";"predict emotion":"﻿怀旧;伤感;孤独 ;安静;思念 ;";"true labels":"﻿怀旧;性感;伤感;孤独 ;思念 ;"}
+{"song":"心跳";"predict emotion":"﻿怀旧;伤感;治愈;孤独 ;安静;思念 ;";"true labels":"﻿怀旧;伤感;治愈;孤独 ;安静;"}
+{"song":"蓝色土耳其";"predict emotion":"﻿怀旧;伤感;治愈;孤独 ;安静;思念 ;";"true labels":"﻿怀旧;伤感;治愈;孤独 ;思念 ;"}
+{"song":"最初的温柔";"predict emotion":"﻿怀旧;伤感;治愈;孤独 ;安静;思念 ;";"true labels":"﻿怀旧;伤感;治愈;孤独 ;思念 ;"}
+{"song":"锋味";"predict emotion":"伤感;治愈;孤独 ;思念 ;";"true labels":"治愈;"}
+{"song":"感觉自己萌萌哒";"predict emotion":"﻿怀旧;伤感;治愈;安静;思念 ;";"true labels":"﻿怀旧;治愈;放松;安静;"}
+{"song":"存在";"predict emotion":"治愈;思念 ;";"true labels":"治愈;快乐;安静;思念 ;"}
+{"song":"东方不败";"predict emotion":"伤感;治愈;安静;思念 ;励志;";"true labels":"﻿怀旧;伤感;安静;思念 ;"}
+{"song":"分手需要练习的";"predict emotion":"安静;";"true labels":"治愈;"}
+{"song":"这个夏天";"predict emotion":"﻿怀旧;治愈;安静;思念 ;";"true labels":"﻿怀旧;治愈;放松;兴奋;快乐;"}
+{"song":"爱走了心碎了";"predict emotion":"安静;甜蜜;";"true labels":"快乐;甜蜜;"}
+{"song":"是否我真的一无所有";"predict emotion":"﻿怀旧;伤感;治愈;感动;安静;思念 ;";"true labels":"﻿怀旧;治愈;感动;安静;思念 ;"}
+{"song":"心如刀割";"predict emotion":"﻿怀旧;安静;思念 ;";"true labels":"﻿怀旧;放松;孤独 ;安静;思念 ;"}

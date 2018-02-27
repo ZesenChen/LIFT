@@ -1,0 +1,115 @@
+{"song":"可以背负更多";"predict style":"﻿流行;民谣;";"true labels":"﻿流行;"}
+{"song":"咱们结婚吧";"predict style":"﻿流行;摇滚;轻音乐;古风;";"true labels":"﻿流行;摇滚;民谣;轻音乐;古风;"}
+{"song":"剑心";"predict style":"﻿流行;古典;古风;";"true labels":"﻿流行;摇滚;"}
+{"song":"喜欢你";"predict style":"﻿流行;摇滚;民谣;";"true labels":"﻿流行;摇滚;民谣;舞曲;新世纪;"}
+{"song":"守护家";"predict style":"﻿流行;民谣;轻音乐;爵士;英伦;";"true labels":"﻿流行;说唱;轻音乐;爵士;英伦;"}
+{"song":"倒梦如流";"predict style":"﻿流行;";"true labels":"﻿流行;"}
+{"song":"我的梦 (Live)";"predict style":"﻿流行;民谣;";"true labels":"﻿流行;"}
+{"song":"夜空中最亮的星";"predict style":"﻿流行;摇滚;轻音乐;";"true labels":"﻿流行;摇滚;民谣;轻音乐;新世纪;"}
+{"song":"对的人";"predict style":"﻿流行;民谣;轻音乐;爵士;乡村;";"true labels":"﻿流行;民谣;轻音乐;爵士;乡村;"}
+{"song":"那些年";"predict style":"﻿流行;民谣;轻音乐;乡村;";"true labels":"﻿流行;摇滚;民谣;乡村;R&B;"}
+{"song":"爱囚";"predict style":"﻿流行;民谣;古典;";"true labels":"﻿流行;摇滚;民谣;说唱;古典;"}
+{"song":"一万个舍不得";"predict style":"﻿流行;民谣;";"true labels":"﻿流行;轻音乐;"}
+{"song":"帝都";"predict style":"﻿流行;摇滚;轻音乐;古典;古风;";"true labels":"﻿流行;摇滚;轻音乐;古典;古风;"}
+{"song":"老婆";"predict style":"﻿流行;";"true labels":"﻿流行;舞曲;"}
+{"song":"别想她";"predict style":"﻿流行;新世纪;古风;";"true labels":"﻿流行;民谣;轻音乐;新世纪;古风;"}
+{"song":"我怀念的";"predict style":"﻿流行;民谣;轻音乐;";"true labels":"﻿流行;轻音乐;"}
+{"song":"年轮";"predict style":"﻿流行;轻音乐;古典;古风;";"true labels":"﻿流行;民谣;轻音乐;古典;古风;"}
+{"song":"新娘不是我";"predict style":"﻿流行;爵士;乡村;后摇;";"true labels":"﻿流行;说唱;爵士;乡村;后摇;"}
+{"song":"歌手";"predict style":"﻿流行;摇滚;民谣;";"true labels":"﻿流行;摇滚;民谣;电子;古风;"}
+{"song":"断桥残雪";"predict style":"﻿流行;民谣;轻音乐;古典;古风;";"true labels":"﻿流行;摇滚;轻音乐;古典;古风;"}
+{"song":"写词的人";"predict style":"﻿流行;新世纪;";"true labels":"﻿流行;摇滚;舞曲;轻音乐;新世纪;"}
+{"song":"断点";"predict style":"﻿流行;民谣;轻音乐;";"true labels":"﻿流行;摇滚;民谣;轻音乐;新世纪;"}
+{"song":"时间煮雨";"predict style":"﻿流行;摇滚;民谣;轻音乐;";"true labels":"﻿流行;摇滚;民谣;轻音乐;古风;"}
+{"song":"有心无意";"predict style":"﻿流行;";"true labels":"﻿流行;"}
+{"song":"修炼爱情";"predict style":"﻿流行;民谣;轻音乐;";"true labels":"﻿流行;摇滚;民谣;说唱;轻音乐;"}
+{"song":"unravel";"predict style":"﻿流行;摇滚;电子;新世纪;后摇;";"true labels":"﻿流行;摇滚;电子;轻音乐;后摇;"}
+{"song":"DAY BY DAY (Japanese ver.)";"predict style":"﻿流行;摇滚;舞曲;";"true labels":"﻿流行;舞曲;"}
+{"song":"依赖成折磨";"predict style":"﻿流行;民谣;";"true labels":"﻿流行;"}
+{"song":"爱，很简单";"predict style":"﻿流行;摇滚;民谣;舞曲;说唱;轻音乐;";"true labels":"﻿流行;摇滚;民谣;轻音乐;新世纪;"}
+{"song":"想你的夜";"predict style":"﻿流行;民谣;轻音乐;R&B;";"true labels":"﻿流行;摇滚;民谣;轻音乐;民族;"}
+{"song":"越走越远的旅客";"predict style":"﻿流行;摇滚;轻音乐;乡村;";"true labels":"﻿流行;电子;古风;"}
+{"song":"这，就是爱";"predict style":"﻿流行;摇滚;民谣;轻音乐;爵士;";"true labels":"﻿流行;摇滚;轻音乐;爵士;新世纪;"}
+{"song":"兄弟难当";"predict style":"﻿流行;摇滚;民族;新世纪;";"true labels":"﻿流行;摇滚;爵士;民族;新世纪;"}
+{"song":"炼爱";"predict style":"﻿流行;民谣;轻音乐;";"true labels":"﻿流行;电子;轻音乐;"}
+{"song":"两个人的回忆一个人过";"predict style":"﻿流行;民谣;古典;金属;";"true labels":"﻿流行;民谣;古典;金属;新世纪;"}
+{"song":"天涯 (Live)";"predict style":"﻿流行;摇滚;古典;新世纪;古风;";"true labels":"﻿流行;"}
+{"song":"至少还有你";"predict style":"﻿流行;民谣;轻音乐;蓝调;新世纪;";"true labels":"﻿流行;民谣;轻音乐;民族;新世纪;"}
+{"song":"如果没以后";"predict style":"﻿流行;民谣;轻音乐;";"true labels":"﻿流行;"}
+{"song":"千百度";"predict style":"﻿流行;轻音乐;古典;古风;";"true labels":"﻿流行;民谣;轻音乐;古典;古风;"}
+{"song":"最重要的决定";"predict style":"﻿流行;民谣;轻音乐;乡村;R&B;";"true labels":"﻿流行;民谣;轻音乐;乡村;R&B;"}
+{"song":"我们的歌";"predict style":"﻿流行;民谣;轻音乐;R&B;";"true labels":"﻿流行;摇滚;民谣;说唱;R&B;"}
+{"song":"天之大";"predict style":"﻿流行;摇滚;古典;英伦;";"true labels":"﻿流行;摇滚;轻音乐;古典;英伦;"}
+{"song":"明天过后";"predict style":"﻿流行;民谣;轻音乐;古典;";"true labels":"﻿流行;说唱;轻音乐;古典;"}
+{"song":"闹啥子嘛闹 (Bouns Track)";"predict style":"﻿流行;民谣;轻音乐;嘻哈;";"true labels":"﻿流行;摇滚;舞曲;说唱;嘻哈;"}
+{"song":"男人的好";"predict style":"﻿流行;摇滚;民谣;";"true labels":"﻿流行;摇滚;民谣;说唱;乡村;"}
+{"song":"相爱分开都是罪";"predict style":"﻿流行;民谣;";"true labels":"﻿流行;摇滚;舞曲;"}
+{"song":"穿越火线";"predict style":"﻿流行;摇滚;舞曲;";"true labels":"﻿流行;摇滚;舞曲;古典;新世纪;"}
+{"song":"小芳 (Live)";"predict style":"﻿流行;摇滚;民谣;轻音乐;新世纪;";"true labels":"﻿流行;摇滚;民谣;轻音乐;新世纪;"}
+{"song":"好了伤疤忘了痛";"predict style":"﻿流行;";"true labels":"﻿流行;摇滚;民谣;"}
+{"song":"开始懂了";"predict style":"﻿流行;民谣;轻音乐;蓝调;";"true labels":"﻿流行;轻音乐;乡村;蓝调;R&B;"}
+{"song":"Let's not fall in love (우리 사랑하지 말아요)";"predict style":"﻿流行;摇滚;电子;舞曲;说唱;";"true labels":"﻿流行;摇滚;电子;舞曲;说唱;"}
+{"song":"特别的人";"predict style":"﻿流行;民谣;轻音乐;爵士;蓝调;";"true labels":"﻿流行;民谣;轻音乐;爵士;蓝调;"}
+{"song":"斑马，斑马";"predict style":"﻿流行;摇滚;民谣;轻音乐;民族;";"true labels":"﻿流行;摇滚;民谣;轻音乐;民族;"}
+{"song":"菊花台";"predict style":"﻿流行;摇滚;蓝调;古风;";"true labels":"﻿流行;民谣;说唱;轻音乐;古风;"}
+{"song":"烟火里的尘埃";"predict style":"﻿流行;民谣;乡村;";"true labels":"﻿流行;摇滚;民谣;乡村;新世纪;"}
+{"song":"狼 (Live)";"predict style":"﻿流行;摇滚;";"true labels":"﻿流行;"}
+{"song":"奔跑吧兄弟";"predict style":"﻿流行;摇滚;新世纪;R&B;";"true labels":"﻿流行;舞曲;R&B;"}
+{"song":"红豆";"predict style":"﻿流行;民谣;轻音乐;爵士;乡村;蓝调;";"true labels":"﻿流行;民谣;轻音乐;爵士;蓝调;"}
+{"song":"Heart";"predict style":"﻿流行;摇滚;舞曲;说唱;轻音乐;嘻哈;";"true labels":"﻿流行;摇滚;舞曲;说唱;轻音乐;"}
+{"song":"走着走着就散了";"predict style":"﻿流行;民谣;";"true labels":"﻿流行;摇滚;民谣;说唱;轻音乐;"}
+{"song":"饿狼传说";"predict style":"﻿流行;摇滚;新世纪;";"true labels":"﻿流行;摇滚;民谣;电子;新世纪;"}
+{"song":"伤心城市";"predict style":"﻿流行;民谣;";"true labels":"﻿流行;"}
+{"song":"네가 손짓해주면 (如果你向我招手)";"predict style":"﻿流行;民谣;轻音乐;";"true labels":"﻿流行;舞曲;说唱;轻音乐;乡村;"}
+{"song":"吻别 (2000版)";"predict style":"﻿流行;摇滚;民谣;";"true labels":"﻿流行;摇滚;民谣;"}
+{"song":"燕归巢";"predict style":"﻿流行;古典;古风;";"true labels":"﻿流行;民谣;古典;民族;古风;"}
+{"song":"我不配";"predict style":"﻿流行;民谣;说唱;轻音乐;R&B;";"true labels":"﻿流行;民谣;说唱;轻音乐;R&B;"}
+{"song":"量身订做";"predict style":"﻿流行;民谣;轻音乐;R&B;";"true labels":"﻿流行;R&B;"}
+{"song":"一千年以后";"predict style":"﻿流行;摇滚;轻音乐;古风;";"true labels":"﻿流行;民谣;轻音乐;蓝调;古风;"}
+{"song":"我最亲爱的";"predict style":"﻿流行;民谣;轻音乐;";"true labels":"﻿流行;民谣;说唱;轻音乐;蓝调;"}
+{"song":"Tonight";"predict style":"﻿流行;摇滚;电子;舞曲;说唱;嘻哈;";"true labels":"﻿流行;电子;舞曲;嘻哈;"}
+{"song":"随它吧";"predict style":"﻿流行;民谣;古风;";"true labels":"﻿流行;摇滚;轻音乐;新世纪;古风;"}
+{"song":"萌萌哒";"predict style":"﻿流行;摇滚;";"true labels":"﻿流行;舞曲;"}
+{"song":"别怕我伤心";"predict style":"﻿流行;民谣;轻音乐;";"true labels":"﻿流行;民谣;电子;轻音乐;拉丁;"}
+{"song":"天使的翅膀";"predict style":"﻿流行;轻音乐;古典;";"true labels":"﻿流行;民谣;轻音乐;古典;新世纪;"}
+{"song":"因为遇见你";"predict style":"﻿流行;民谣;轻音乐;新世纪;";"true labels":"﻿流行;摇滚;说唱;轻音乐;新世纪;"}
+{"song":"爱一点";"predict style":"﻿流行;民谣;";"true labels":"﻿流行;"}
+{"song":"结局后才明白";"predict style":"﻿流行;民谣;";"true labels":"﻿流行;"}
+{"song":"在一起";"predict style":"﻿流行;摇滚;民谣;轻音乐;乡村;新世纪;R&B;";"true labels":"﻿流行;民谣;乡村;新世纪;R&B;"}
+{"song":"芊芊";"predict style":"﻿流行;轻音乐;古典;古风;";"true labels":"﻿流行;民谣;轻音乐;古典;古风;"}
+{"song":"情花";"predict style":"﻿流行;";"true labels":"﻿流行;轻音乐;"}
+{"song":"我们的无奈";"predict style":"﻿流行;民谣;轻音乐;R&B;嘻哈;";"true labels":"﻿流行;舞曲;轻音乐;R&B;嘻哈;"}
+{"song":"钟无艳";"predict style":"﻿流行;轻音乐;古风;";"true labels":"﻿流行;摇滚;民谣;轻音乐;古风;"}
+{"song":"宁夏 (Live)";"predict style":"﻿流行;";"true labels":"﻿流行;民谣;"}
+{"song":"离别";"predict style":"﻿流行;古典;民族;R&B;";"true labels":"﻿流行;摇滚;古典;民族;R&B;"}
+{"song":"勇敢的心";"predict style":"﻿流行;摇滚;民谣;金属;新世纪;";"true labels":"﻿流行;摇滚;民谣;金属;新世纪;"}
+{"song":"樱花草";"predict style":"﻿流行;摇滚;民谣;";"true labels":"﻿流行;摇滚;民谣;"}
+{"song":"那个远方";"predict style":"﻿流行;轻音乐;民族;蓝调;古风;";"true labels":"﻿流行;摇滚;轻音乐;乡村;蓝调;"}
+{"song":"爱不可及";"predict style":"﻿流行;摇滚;民谣;轻音乐;乡村;古典;";"true labels":"﻿流行;民谣;轻音乐;乡村;古典;"}
+{"song":"战放";"predict style":"﻿流行;R&B;";"true labels":"﻿流行;电子;舞曲;说唱;R&B;"}
+{"song":"情人";"predict style":"﻿流行;摇滚;古典;";"true labels":"﻿流行;摇滚;民谣;古典;新世纪;"}
+{"song":"我不再相信";"predict style":"﻿流行;民谣;蓝调;古风;后摇;";"true labels":"﻿流行;舞曲;蓝调;古风;后摇;"}
+{"song":"手心里的温柔";"predict style":"﻿流行;民谣;民族;";"true labels":"﻿流行;民谣;舞曲;民族;"}
+{"song":"分手就分手";"predict style":"﻿流行;民谣;轻音乐;古典;";"true labels":"﻿流行;摇滚;轻音乐;古典;古风;"}
+{"song":"摇摆哥";"predict style":"﻿流行;乡村;后摇;";"true labels":"﻿流行;舞曲;说唱;乡村;后摇;"}
+{"song":"破晓以后";"predict style":"﻿流行;轻音乐;古风;";"true labels":"﻿流行;舞曲;轻音乐;古风;"}
+{"song":"假如爱有天意 (Live)";"predict style":"﻿流行;民谣;轻音乐;乡村;古典;";"true labels":"﻿流行;民谣;轻音乐;乡村;古典;"}
+{"song":"毕业后你不是我的";"predict style":"﻿流行;民谣;";"true labels":"﻿流行;"}
+{"song":"半岛铁盒";"predict style":"﻿流行;民谣;说唱;轻音乐;蓝调;R&B;";"true labels":"﻿流行;民谣;说唱;轻音乐;R&B;"}
+{"song":"爱的回归线";"predict style":"﻿流行;民谣;";"true labels":"﻿流行;民谣;轻音乐;蓝调;新世纪;"}
+{"song":"死皮赖脸";"predict style":"﻿流行;民谣;";"true labels":"﻿流行;"}
+{"song":"星晴";"predict style":"﻿流行;摇滚;说唱;轻音乐;";"true labels":"﻿流行;摇滚;民谣;说唱;轻音乐;"}
+{"song":"一剪梅";"predict style":"﻿流行;";"true labels":"﻿流行;民谣;"}
+{"song":"热爱";"predict style":"﻿流行;民谣;英伦;朋克;";"true labels":"﻿流行;摇滚;民谣;英伦;朋克;"}
+{"song":"三人游";"predict style":"﻿流行;民谣;爵士;蓝调;";"true labels":"﻿流行;民谣;爵士;蓝调;新世纪;"}
+{"song":"一言难尽";"predict style":"﻿流行;摇滚;民谣;";"true labels":"﻿流行;摇滚;民谣;舞曲;说唱;"}
+{"song":"你的配角";"predict style":"﻿流行;民谣;轻音乐;";"true labels":"﻿流行;民谣;轻音乐;新世纪;古风;"}
+{"song":"爱在西元前";"predict style":"﻿流行;民谣;说唱;古风;R&B;";"true labels":"﻿流行;民谣;说唱;古风;R&B;"}
+{"song":"小岁月太着急";"predict style":"﻿流行;民谣;";"true labels":"﻿流行;"}
+{"song":"亲爱的还幸福吗";"predict style":"﻿流行;轻音乐;民族;R&B;";"true labels":"﻿流行;摇滚;轻音乐;新世纪;R&B;"}
+{"song":"心如刀割";"predict style":"﻿流行;";"true labels":"﻿流行;民谣;轻音乐;"}
+{"song":"朱丽叶的秋天";"predict style":"﻿流行;摇滚;蓝调;新世纪;";"true labels":"﻿流行;摇滚;电子;蓝调;新世纪;"}
+{"song":"至少还有你";"predict style":"﻿流行;民谣;轻音乐;乡村;蓝调;新世纪;";"true labels":"﻿流行;轻音乐;乡村;蓝调;新世纪;"}
+{"song":"另一个自己";"predict style":"﻿流行;民谣;轻音乐;爵士;新世纪;";"true labels":"﻿流行;民谣;轻音乐;爵士;古典;"}
+{"song":"美好的昨天";"predict style":"﻿流行;民谣;轻音乐;乡村;R&B;";"true labels":"﻿流行;摇滚;民谣;乡村;R&B;"}
+{"song":"悟空 (Live)";"predict style":"﻿流行;摇滚;古典;古风;";"true labels":"﻿流行;摇滚;民谣;古典;古风;"}
